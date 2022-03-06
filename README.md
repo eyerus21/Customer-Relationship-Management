@@ -1,6 +1,5 @@
 # Customer-Relationship-Management
-Customer Relationship Management 
-> The provision of data-driven business insights to both external stakeholders and internal teams for better decision-making. Therefore, assuming the role of an analytic engineer at adludio, use the Sales data provided to do transformations that will be used to communicate the relevant metrics and any other relevant insights from the data. 
+> The provision of data-driven business insights to both external stakeholders and internal teams for better decision-making.using the Sales data provided to do transformations that will be used to communicate the relevant metrics and any other relevant insights from the data. 
 
 ---
 ## Table of contents
@@ -20,7 +19,31 @@ Customer Relationship Management
 
 ## Data
 
-* [Sales Data](https://drive.google.com/file/d/1Nz1ywJZvm0vtq_uwDUQkeBZH32NE3wWk/view>)
+* [Sales Data](https://drive.google.com/file/d/1Nz1ywJZvm0vtq_uwDUQkeBZH32NE3wWk/view)
 
- <!-- <a name= 'https://drive.google.com/file/d/1Nz1ywJZvm0vtq_uwDUQkeBZH32NE3wWk/view'></a> -->
+<a name='Project progress'></a>
 
+## Project progress
+- [x] Read the data 
+- [x] Perform exploratory analysis on it 
+
+## Installation requirements
+>Some of the python packages required to do the project are listed here and for more check the [requiremnt.txt]()
+
+<a name='hint'></a>
+
+## Skills and knowledge
+
+**Skills:**
+
+- analysis
+
+
+**Knowledge:**
+- about sales
+
+ <a name='refs'></a>
+
+ ## References
+
+* https://support.pipedrive.com/en/article/how-is-pipedrive-data-organized
