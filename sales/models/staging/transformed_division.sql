@@ -1,0 +1,1 @@
+SELECT column_one/column_two AS column_one_divided_by_column_two FROM {{ref('generated_report')}}

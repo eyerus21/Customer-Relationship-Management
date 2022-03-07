@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: adludio
+    tables:
+      - name: sales_table
+      
+          
+
+  
